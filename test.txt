@@ -1,2 +1,5 @@
 今天第一天学习
 来看一看效果
+
+运用了git add
+git commit -m "  "命令
