@@ -5,3 +5,5 @@
 git commit -m "  "命令
 
 现在学习了git log 命令
+
+暂存区和提交区
