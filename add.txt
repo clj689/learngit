@@ -4,5 +4,3 @@ Creating a new branch is quick.
 
 test branch and exit
 
-
-no bug!
